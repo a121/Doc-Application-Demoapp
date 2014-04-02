@@ -1,5 +1,4 @@
-
-/*This file is the store for labconcepts*/
+/*This file is the store for appointments*/
 
 Ext.define('DocAppointment.store.AppointmentStore',{
 	extend: 'Ext.data.Store',
